@@ -40,7 +40,7 @@
 
 **或者 新版本有道智云**
 
-2\. [注册](http://ai.youdao.com/appmgr.s)有道智云应用
+2\. [注册](http://ai.youdao.com/appmgr.s)有道智云应用，并注册一个应用
 
 3\. 在 Alfred 的设置中填入对应的`应用ID`和`应用密钥`
 
